@@ -1,0 +1,115 @@
+{
+    "categories": [
+      "Horror",
+      "Historical",
+      "Fantasy"
+    ],
+    "users": [
+      {
+        "id": 1,
+        "email": "abdellah@gmail.com",
+        "password": "1234"
+      },
+      {
+        "email": "chatiouiabdellah123@gmail.com",
+        "password": "abdellah",
+        "id": 2
+      },
+      {
+        "email": "abde@gmail.cl",
+        "password": "7899",
+        "id": 3
+      },
+      {
+        "email": "abde@gmail.cl",
+        "password": "7899",
+        "id": 4
+      },
+      {
+        "email": "chatiouiabdellah123@gmail.com",
+        "password": "123",
+        "id": 5
+      },
+      {
+        "email": "0650067168",
+        "password": "abdellah",
+        "id": 6
+      },
+      {
+        "email": "a@g.c",
+        "password": "ayman",
+        "id": 7
+      },
+      {
+        "email": "abde@g.c",
+        "password": "abde",
+        "id": 8
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "genre": "Fantasy",
+        "title": "Oliver Twist",
+        "cover_image": "https://marketplace.canva.com/EADt7iTq3PU/1/0/1003w/canva-bleu-blanc-photographie-appareil-photo-clich%C3%A9-photo-humeur-kindle-couverture-rDYc_NGW4T4.jpg ",
+        "prix": 234,
+        "releaseDate": "1839"
+      },
+      {
+        "id": 2,
+        "genre": "Horror",
+        "title": "Hard Times",
+        "cover_image": "https://marketplace.canva.com/EADzX6n6LUM/1/0/1003w/canva-femmes-silencieuses-thriller-kindle-couverture-2qAxvQ63weM.jpg ",
+        "prix": 300,
+        "releaseDate": "1854"
+      },
+      {
+        "id": 3,
+        "genre": "Historical",
+        "title": "Hamlet",
+        "cover_image": "https://marketplace.canva.com/EAEuNIAZiFs/1/0/1003w/canva-clair-vert-cercle-r%C3%A9el-nourriture-recette-e-book-couverture-s5d8e7XM4m4.jpg ",
+        "prix": 160,
+        "releaseDate": "1603"
+      },
+      {
+        "id": 4,
+        "genre": "Fantasy",
+        "title": "IT",
+        "cover_image": "https://marketplace.canva.com/EADzX7I7K4k/1/0/1003w/canva-menthe-caf%C3%A9-photo-minimaliste-nourriture-journal-livre-couverture-uvTta15WSjA.jpg",
+        "prix": 500,
+        "releaseDate": "2017"
+      },
+      {
+        "id": 5,
+        "genre": "Fantasy",
+        "title": "Norwegian Wood",
+        "cover_image": "http://t1.gstatic.com/images?q=tbn:ANd9GcQvJJDi2mzwg9v_PlmKYL31gXIz0kvAObJak7DVFPcD_mJTIyec",
+        "prix": 296,
+        "releaseDate": "1987"
+      },
+      {
+        "id": 6,
+        "genre": "Historical",
+        "title": "Kafka on the Shore",
+        "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcRHFU_j93PPsbQGqoaZJnHH6-Emk_sIxG823SkoRTL0nvdEP41f",
+        "prix": 505,
+        "releaseDate": "2002"
+      },
+      {
+        "id": 7,
+        "genre": "Horror",
+        "title": "After Dark",
+        "cover_image": "http://t3.gstatic.com/images?q=tbn:ANd9GcQBMNA8A19vQpNY4bkgadsLhiRUFqBKwKAA6ANrw8VEtOiPrYQJ",
+        "prix": 208,
+        "releaseDate": "2004"
+      },
+      {
+        "id": 8,
+        "genre": "Historical",
+        "title": "1Q84",
+        "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBQZSg-b2LFkLlt9fWndS1w8SONabDZBHf0dtdb3-bqcuKxduL",
+        "prix": 928,
+        "releaseDate": "2009"
+      }
+    ]
+  }
